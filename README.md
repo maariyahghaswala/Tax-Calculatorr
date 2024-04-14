@@ -2,6 +2,7 @@ Tax Calculator
 
 This is a simple web-based tax calculator application built using HTML, CSS, JavaScript, and Bootstrap. It allows users to calculate their net income after deductions and taxes based on their gross annual income, extra income, age group, and applicable deductions.
 
+View it on the browser: https://maariyahghaswala.github.io/Tax-Calculatorr/
 Features
 
 - User-friendly interface
