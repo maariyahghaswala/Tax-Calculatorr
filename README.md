@@ -57,3 +57,14 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 Test Cases:
 ![Test Case 1](https://github.com/maariyahghaswala/Tax-Calculatorr/blob/main/testcase1.png?raw=true)
 
+![Test Case 2](https://github.com/maariyahghaswala/Tax-Calculatorr/blob/main/testcase2.png?raw=true)
+
+![Test Case 3](https://github.com/maariyahghaswala/Tax-Calculatorr/blob/main/testcase3.png?raw=true)
+
+![Test Case 4](https://github.com/maariyahghaswala/Tax-Calculatorr/blob/main/testcase4.png?raw=true)
+
+![Test Case 5](https://github.com/maariyahghaswala/Tax-Calculatorr/blob/main/testcase5.png?raw=true)
+
+![Test Case 6](https://github.com/maariyahghaswala/Tax-Calculatorr/blob/main/testcase6.png?raw=true)
+
+
